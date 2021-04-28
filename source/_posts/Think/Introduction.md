@@ -6,7 +6,7 @@ authorLink:
 authorAbout: 傻傻的Cloud
 authorDesc: 
 categories: 随想
-comments: true
+comments: false
 date: 2021-02-07 21:30:37
 tags: 
 keywords: 自我介绍 
