@@ -2,11 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\source",
-    "\\source\\comment",
+    "\\source\\_posts",
+    "\\source\\_posts\\Optics",
+    "\\source\\_posts\\Program",
+    "\\source\\_posts\\Think",
     "\\themes",
     "\\themes\\Sakura",
-    "\\themes\\Sakura\\languages",
-    "\\themes\\Sakura\\layout"
+    "\\themes\\Sakura\\layout",
+    "\\themes\\Sakura\\layout\\_partial"
   ],
   "SelectedNode": "\\themes\\Sakura\\layout\\donate.ejs",
   "PreviewInSolutionExplorer": false
