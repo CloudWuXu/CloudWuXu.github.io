@@ -11,7 +11,7 @@ date: 2021-02-07 21:30:37
 tags: 
 keywords: 自我介绍 
 description:
-photos: https://cdn.jsdelivr.net/gh/CloudWuXu/Blog@1.1.1/Post/RandomThoughts/Intro/1105140.jpg
+photos: https://cdn.jsdelivr.net/gh/CloudWuXu/Blog/Post/RandomThoughts/Intro/1105140.jpg
 ---
 
 
@@ -42,7 +42,7 @@ photos: https://cdn.jsdelivr.net/gh/CloudWuXu/Blog@1.1.1/Post/RandomThoughts/Int
 
 ### 动漫 : 热血 冒险
 《Fairy Tail》《Bleach》《JOJO》排名不分先后
-{% fb_img https://cdn.jsdelivr.net/gh/CloudWuXu/Blog@1.1.1/Post/RandomThoughts/Intro/433571.jpg  %}
+{% fb_img https://cdn.jsdelivr.net/gh/CloudWuXu/Blog/Post/RandomThoughts/Intro/433571.jpg  %}
 
 ### 游戏 : 战略 RPG
 《红警2》最早接触的RTS游戏
@@ -52,7 +52,7 @@ photos: https://cdn.jsdelivr.net/gh/CloudWuXu/Blog@1.1.1/Post/RandomThoughts/Int
 《口袋妖怪系列》GBA模拟上的经典游戏
 《仙剑奇侠传4》云通关了，剧情系列之最
 《最终幻想7重制版》希望21年能玩上PC版
-{% fb_img https://cdn.jsdelivr.net/gh/CloudWuXu/Blog@1.1.1/Post/RandomThoughts/Intro/1081267.jpg  %}
+{% fb_img https://cdn.jsdelivr.net/gh/CloudWuXu/Blog/Post/RandomThoughts/Intro/1081267.jpg  %}
 
 ### 编程 : Github Python Matlab C++
 本着能抄坚决不改、能改坚决不编的原则，我会从Github或B站上找感兴趣的项目去实现。

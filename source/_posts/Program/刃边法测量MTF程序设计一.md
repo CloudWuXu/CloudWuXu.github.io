@@ -11,7 +11,7 @@ date: 2021-05-01 15:10:35
 tags:
 keywords: 刃边法 MTF Matlab
 description:
-photos: https://cdn.jsdelivr.net/gh/CloudWuXu/Blog@1.1.2/Post/Program/ESF2MTF_1/P2.bmp
+photos: https://cdn.jsdelivr.net/gh/CloudWuXu/Blog/Post/Program/ESF2MTF_1/P2.bmp
 ---
 
 ## 引言
@@ -22,16 +22,16 @@ photos: https://cdn.jsdelivr.net/gh/CloudWuXu/Blog@1.1.2/Post/Program/ESF2MTF_1/
 **1)读取倾斜角度为8度的理想刃边图像，得到二维矩阵Image;**
 
 **2)选用二维高斯函数作为退化函数，与矩阵Image作卷积，人工模糊理想刃边图像，如下图所示;**
-{% fb_img https://cdn.jsdelivr.net/gh/CloudWuXu/Blog@1.1.2/Post/Program/ESF2MTF_1/P1.jpg %}
+{% fb_img https://cdn.jsdelivr.net/gh/CloudWuXu/Blog/Post/Program/ESF2MTF_1/P1.jpg %}
 
 **3)几何投影法将二维矩阵Image投影到一维，得到边缘拓展函数(Edeg Spread Function,简称ESF)，如下图所示;**
-{% fb_img https://cdn.jsdelivr.net/gh/CloudWuXu/Blog@1.1.2/Post/Program/ESF2MTF_1/P3.jpg %}
+{% fb_img https://cdn.jsdelivr.net/gh/CloudWuXu/Blog/Post/Program/ESF2MTF_1/P3.jpg %}
 
 **4)边缘拓展函数求导得到线拓展函数(Line Spread Function,简称LSF)，如下图所示;**
-{% fb_img https://cdn.jsdelivr.net/gh/CloudWuXu/Blog@1.1.2/Post/Program/ESF2MTF_1/P4.jpg %}
+{% fb_img https://cdn.jsdelivr.net/gh/CloudWuXu/Blog/Post/Program/ESF2MTF_1/P4.jpg %}
 
 **5)线拓展函数离散傅里叶变换得到MTF，如下图所示。**
-{% fb_img https://cdn.jsdelivr.net/gh/CloudWuXu/Blog@1.1.2/Post/Program/ESF2MTF_1/P5.jpg %}
+{% fb_img https://cdn.jsdelivr.net/gh/CloudWuXu/Blog/Post/Program/ESF2MTF_1/P5.jpg %}
 
 ## 程序设计
 <pre>

@@ -6,13 +6,13 @@ favicon: /images/favicon.ico
 #avatar: /Avatars/178440.jpg
 url: https://CloudBlog.cn
 description: 云随风而游
-cdn: https://cdn.jsdelivr.net/gh/CloudWuXu/Blog@1.1.1/
+cdn: https://cdn.jsdelivr.net/gh/CloudWuXu/Blog@1.1.2/
 pjax: 1
 # 1开启
 mathjax: 0
 
 notice: 
-lazyloadImg: https://cdn.jsdelivr.net/gh/CloudWuXu/Blog@1.1.1/Loader/orange.square-circle-preloader.svg
+lazyloadImg: https://cdn.jsdelivr.net/gh/CloudWuXu/Blog/Loader/orange.square-circle-preloader.svg
 
 menus:
   首页: { path: /, fa: fa-fort-awesome faa-shake }
@@ -47,12 +47,12 @@ homePageSortType: -1
 homeArticleShown: 10
 # 背景图片 更好的修改
 bg:
-  - https://cdn.jsdelivr.net/gh/CloudWuXu/Blog@1.1.1/Cover/(1).jpg.webp
-  - https://cdn.jsdelivr.net/gh/CloudWuXu/Blog@1.1.1/Cover/(2).jpg.webp
-  - https://cdn.jsdelivr.net/gh/CloudWuXu/Blog@1.1.1/Cover/(3).jpg.webp
-  - https://cdn.jsdelivr.net/gh/CloudWuXu/Blog@1.1.1/Cover/(4).jpg.webp
-  - https://cdn.jsdelivr.net/gh/CloudWuXu/Blog@1.1.1/Cover/(5).jpg.webp
-  - https://cdn.jsdelivr.net/gh/CloudWuXu/Blog@1.1.1/Cover/(6).jpg.webp
+  - https://cdn.jsdelivr.net/gh/CloudWuXu/Blog/Cover/(1).jpg.webp
+  - https://cdn.jsdelivr.net/gh/CloudWuXu/Blog/Cover/(2).jpg.webp
+  - https://cdn.jsdelivr.net/gh/CloudWuXu/Blog/Cover/(3).jpg.webp
+  - https://cdn.jsdelivr.net/gh/CloudWuXu/Blog/Cover/(4).jpg.webp
+  - https://cdn.jsdelivr.net/gh/CloudWuXu/Blog/Cover/(5).jpg.webp
+  - https://cdn.jsdelivr.net/gh/CloudWuXu/Blog/Cover/(6).jpg.webp
 
 # 背景图片样式 空 原图效果 filter-dim 阴影 filter-grid 横条 filter-dot 点点
 bgclass: 

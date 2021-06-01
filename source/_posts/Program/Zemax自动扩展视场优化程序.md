@@ -11,7 +11,7 @@ date: 2021-03-20 14:15:58
 tags:
 keywords: Zemax 宏
 description:
-photos: https://cdn.jsdelivr.net/gh/CloudWuXu/Blog@1.1.1/Post/Program/ZemaxAut/Header.jpg
+photos: https://cdn.jsdelivr.net/gh/CloudWuXu/Blog/Post/Program/ZemaxAut/Header.jpg
 ---
 
 ## 引言

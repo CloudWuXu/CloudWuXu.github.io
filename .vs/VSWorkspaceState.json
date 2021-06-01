@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\source",
+    "\\source\\num",
+    "\\source\\theme-sakura",
     "\\source\\_posts",
-    "\\source\\_posts\\Optics",
-    "\\source\\_posts\\Program",
     "\\source\\_posts\\Think",
     "\\themes",
     "\\themes\\Sakura",
     "\\themes\\Sakura\\layout",
     "\\themes\\Sakura\\layout\\_partial"
   ],
-  "SelectedNode": "\\themes\\Sakura\\layout\\donate.ejs",
+  "SelectedNode": "\\themes\\Sakura\\layout\\_partial\\footer.ejs",
   "PreviewInSolutionExplorer": false
 }
