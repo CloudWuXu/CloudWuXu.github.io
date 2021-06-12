@@ -2,15 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\source",
-    "\\source\\num",
     "\\source\\theme-sakura",
     "\\source\\_posts",
+    "\\source\\_posts\\Optics",
     "\\source\\_posts\\Think",
     "\\themes",
-    "\\themes\\Sakura",
-    "\\themes\\Sakura\\layout",
-    "\\themes\\Sakura\\layout\\_partial"
+    "\\themes\\Sakura"
   ],
-  "SelectedNode": "\\themes\\Sakura\\layout\\_partial\\footer.ejs",
+  "SelectedNode": "\\source\\_posts\\Optics\\5X红外变焦镜头初始结构搭建.md",
   "PreviewInSolutionExplorer": false
 }

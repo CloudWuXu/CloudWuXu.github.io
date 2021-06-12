@@ -6,7 +6,7 @@ favicon: /images/favicon.ico
 #avatar: /Avatars/178440.jpg
 url: https://CloudBlog.cn
 description: 云随风而游
-cdn: https://cdn.jsdelivr.net/gh/CloudWuXu/Blog@1.1.3/
+cdn: https://cdn.jsdelivr.net/gh/CloudWuXu/Blog@1.1.4/
 pjax: 1
 # 1开启
 mathjax: 0
